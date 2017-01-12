@@ -1,0 +1,16 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js || true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": "NPM test"
+}
