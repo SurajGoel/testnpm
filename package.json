@@ -12,5 +12,13 @@
     "@linclark/pkg": "^1.0.2"
   },
   "devDependencies": {},
-  "description": "NPM test"
+  "description": "NPM test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurajGoel/testnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SurajGoel/testnpm/issues"
+  },
+  "homepage": "https://github.com/SurajGoel/testnpm#readme"
 }
